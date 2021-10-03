@@ -1,4 +1,4 @@
-# CodePath Cyersecurity Pre-work
+# CodePath Cybersecurity Pre-work
 
 ![image](https://user-images.githubusercontent.com/34073257/135768051-fa46c426-c22f-4211-b884-8ade4d1eb5eb.png)
 
